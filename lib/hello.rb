@@ -7,7 +7,11 @@ def hello_t(an_array)
    end
   an_array
   else
+<<<<<<< HEAD
   puts "Hey! No block was given!"
+=======
+  puts "where da block"
+>>>>>>> 17636fcb6e63dc30521852c214d3ca255be5d852
   end
 end
 
